@@ -1,0 +1,3 @@
+﻿  quicksort_MP.cpp
+C:\Users\AOROS\Desktop\Dev\C++\quicksort_MP\quicksort_MP\quicksort_MP.cpp(51,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  quicksort_MP.vcxproj -> C:\Users\AOROS\Desktop\Dev\C++\quicksort_MP\Debug\quicksort_MP.exe
